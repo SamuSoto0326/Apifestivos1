@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiFestivos",
+    "\\ApiFestivos.Application",
+    "\\ApiFestivos.Application\\Dtos",
+    "\\ApiFestivos.Application\\Interfaces",
+    "\\ApiFestivos.Application\\services",
+    "\\ApiFestivos.Persistence",
+    "\\ApiFestivos\\Migrations"
+  ],
+  "SelectedNode": "\\ApiFestivos.sln",
+  "PreviewInSolutionExplorer": false
+}
